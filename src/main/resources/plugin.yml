@@ -1,0 +1,9 @@
+name: Minigame
+version: '${project.version}'
+main: com.github.rpbeee.minigame.Minigame
+api-version: 1.17
+authors: [ RPbeee ]
+description: Minigame plugin.
+commands:
+  mines:
+    description: マインスイーパ。
